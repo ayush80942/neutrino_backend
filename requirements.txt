@@ -7,3 +7,4 @@ PyPDF2
 faiss-cpu
 langchain_google_genai
 Gunicorn
+flask_cors
